@@ -1,0 +1,6 @@
+{
+  "name": "CODE BLUE — 경주 황성동 헤어 살롱 코드블루",
+  "description": "경북 경주시 황성로 27 2층에 위치한 헤어 살롱 코드블루(CODE BLUE) 공식 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

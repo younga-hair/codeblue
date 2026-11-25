@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    color: #18181b;
+    background-color: #fafafa;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+.font-display {
+  font-family: "Cormorant Garamond", "Noto Sans KR", Georgia, serif;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
